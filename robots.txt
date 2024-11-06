@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umeluobi.github.io/XaC/sitemap_index.txt
+Sitemap: https://umeluobi.github.io/ZAC/sitemap_index.txt
+Sitemap: https://umeluobi.github.io/cJE/sitemap_index.txt
+Sitemap: https://umeluobi.github.io/uvU/sitemap_index.txt
